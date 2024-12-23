@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in COBOL loop control, where the loop counter is incremented twice under a specific condition, and how to fix it by restructuring the loop's logic for proper iteration.
